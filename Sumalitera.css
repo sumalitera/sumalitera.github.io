@@ -24,6 +24,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-container-layout-1 {
